@@ -1,0 +1,7 @@
+!
+! Title: Own AdGuard DNS Filter
+! Version: 1.0
+! Homepage: 
+! Last modified: 2025-02-25T06:08:46.085Z
+!
+||chaturbate.com^
